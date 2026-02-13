@@ -1,0 +1,1 @@
+This is a basic project where I refresh my Python skills from the ground up. I made a basic blackjack game with an assumed list of cards, with the focus being on remembering how to use logic loops and conditions. 
